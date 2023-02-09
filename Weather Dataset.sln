@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather Dataset", "Weather Dataset\Weather Dataset.csproj", "{DFC5C8DB-6F71-4188-946A-19E8F441EC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC5C8DB-6F71-4188-946A-19E8F441EC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5C8DB-6F71-4188-946A-19E8F441EC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5C8DB-6F71-4188-946A-19E8F441EC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5C8DB-6F71-4188-946A-19E8F441EC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B830E176-B4B9-48E6-B04A-009552C8DBB8}
+	EndGlobalSection
+EndGlobal
